@@ -1,6 +1,6 @@
 <!-- 🟢 Retro Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Aman+ST!;Tech+Enthusiast+%F0%9F%92%BB;Lover+of+God,+Family,+and+Football+%F0%9F%8F%9F%EF%B8%8F&center=true&width=500&height=40" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Aman+ST!;Tech+Enthusiast+%F0%9F%92%BB;God,+Family,+and+Football+%F0%9F%8F%9F%EF%B8%8F&center=true&width=500&height=40" />
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
 🎮 Replace project-1 and project-2 with your actual repos once you're ready!
 
 🤝 Connect With Me
-🐦 Twitter: @amanseife
+🐦 Twitter/X: @amanseife
 
 💬 Telegram: @AmanST1
 
@@ -62,4 +62,4 @@
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amanst1&show_icons=true&theme=radical" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanst1&layout=compact&theme=tokyonight" width="340"/> </p>
 🎉 Thanks for Stopping By!
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZoamIyNjgwOXV1MHNjY3Q3ZzJkMHBtb2tjYjZxNjZlYmptZ3RtMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MaOEz03VjkTf9pz0zf/giphy.gif" width="180" /> <br/> <sub>✨ Built with code, faith, vibes, and a splash of 90s magic ✨</sub> </p>
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZoamIyNjgwOXV1MHNjY3Q3ZzJkMHBtb2tjYjZxNjZlYmptZ3RtMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MaOEz03VjkTf9pz0zf/giphy.gif" width="180" /> <br/> <sub>✨ Built with code, faith, vibes, and a splash of 90s magic ✨</sub> </p> ```
