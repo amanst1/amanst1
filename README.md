@@ -1,48 +1,65 @@
-👾 Welcome to My Retro Tech Universe! 🚀
-Hey there, pixel adventurer! You're now in my digital arcade, where code meets retro vibes and a sprinkle of fun. Buckle up for a tour of my world, powered by coffee ☕, 8-bit dreams, and a passion for tech!
+<!-- 🟢 Retro Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there,+I'm+Aman+ST!;Tech+Enthusiast+%F0%9F%92%BB;Lover+of+God,+Family,+and+Football+%F0%9F%8F%9F%EF%B8%8F&center=true&width=500&height=40" />
+</p>
 
-🎮 About Me
-I'm [Your Name], a code-wizard-in-training with a love for all things techy and retro! 🌟  
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80"/>
+</p>
 
-💾 Interests: Hacking away at cool projects, collecting vintage game consoles, and binge-watching sci-fi classics.  
-🕹️ Vibe: Think neon lights, synthwave beats, and a dash of 80s arcade energy.  
-🌈 Fun Fact: I once built a mini arcade machine out of cardboard and a Raspberry Pi!
+---
 
+<p align="center">
+  <img src="https://i.imgur.com/9f3N2GY.gif" width="100%" />
+</p>
 
-🛠️ My Tech Arsenal
-Here’s the gear I wield in my coding quests:  
+## 🧠 About Me
 
-Languages:  
-Tools:  
-Currently Learning: Rust 🦀 and Web3 wizardry 🧙‍♂️
+📍 **Location:** Ethiopia  
+🙏 Faith, ⚽ Football, and 💻 Frontend Vibes  
+🎨 Building fun, useful stuff while learning *"Vibe Coding"*™  
+💾 I’m all about **organizing**, **learning**, and chasing that clean UI energy  
+🔌 Powered by coffee and curiosity
 
+---
 
-🌌 Featured Projects
-Check out some of my proudest pixelated creations! ✨  
+<p align="center">
+  <img src="https://i.imgur.com/sI7aK7Y.gif" width="100%" />
+</p>
 
-[Retro Game Clone]: A JavaScript-powered Snake game with a neon twist! 🐍Play it here! |   
-[Pixel Art Generator]: Turn your selfies into 8-bit masterpieces! 🎨Check it out |   
-[Synthwave Portfolio]: My personal site with retro-futuristic vibes. 🌃Visit now!
+## 💻 Tech Stack
 
+```bash
+🔤 Languages: HTML · CSS · JavaScript · Python  
+⚛️ Frameworks: React  
+🛠️ Tools: Git · VS Code · Chrome DevTools  
 
+🚧 Currently Vibing With...
+📚 Learning: Vibe Coding™ (yes, it's a thing 😎)
+💡 Exploring creative ways to code with joy and flow
+🎶 Background music: Lo-fi · Afrobeat · Chill rain sounds
+
+<p align="center"> <img src="https://i.imgur.com/jxWqIBf.gif" width="100%" /> </p>
+💾 Featured Projects
+<div align="center"> <a href="https://github.com/amanst1/project-1"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanst1&repo=project-1&theme=tokyonight" /> </a> <a href="https://github.com/amanst1/project-2"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanst1&repo=project-2&theme=tokyonight" /> </a> </div>
+🎮 Replace project-1 and project-2 with your actual repos once you're ready!
+
+🤝 Connect With Me
+🐦 Twitter: @amanseife
+
+💬 Telegram: @AmanST1
+
+🎲 Fun Zone
+🧃 I debug like I play football — with energy and a bit of flair
+
+🧩 I love organizing digital chaos into clean code
+
+🧠 My brain runs in dark mode. Always.
+
+📁 I name my folders better than I name my fantasy football team
+
+<p align="center"> <img src="https://i.imgur.com/WvJgb2a.gif" width="100%" /> </p>
 📊 GitHub Stats
-  
-
-🎵 Connect with Me
-Let’s vibe on the interwebs! 🌐  
-
-🐦 Twitter/X – Tweeting about tech and retro games!  
-💼 LinkedIn – For the professional side of me.  
-📧 Email me – Slide into my DMs (or inbox)!  
-🎨 My Pixel Art Blog – Where I share my retro creations.
-
-
-🕹️ Fun Zone
-
-Favorite Retro Game: The Legend of Zelda 🗡️  
-Current Jam: Synthwave playlists on repeat 🎶  
-Pro Tip: Always keep a spare joystick handy! 🕹️
-
-Thanks for visiting my digital arcade! Drop a star ⭐ on my repos if you like what you see, and let’s code some retro magic together!
-
-Built with 💖 and a touch of neon glow.
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amanst1&show_icons=true&theme=radical" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanst1&layout=compact&theme=tokyonight" width="340"/> </p>
+🎉 Thanks for Stopping By!
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZoamIyNjgwOXV1MHNjY3Q3ZzJkMHBtb2tjYjZxNjZlYmptZ3RtMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MaOEz03VjkTf9pz0zf/giphy.gif" width="180" /> <br/> <sub>✨ Built with code, faith, vibes, and a splash of 90s magic ✨</sub> </p>
