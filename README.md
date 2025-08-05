@@ -33,6 +33,12 @@
 ```
 
 
+🏆 Achievements & Repos
+<p align="center"> <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" /> </p>
+🧱 Pinned Work
+<div align="center"> <a href="https://github.com/amanst1/memory-game"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanst1&repo=memory-game&theme=tokyonight" /> </a> <a href="https://github.com/amanst1/quizzical"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanst1&repo=quizzical&theme=tokyonight" /> </a> </div>
+
+
 💾 Featured Projects
 <div align="center"> <a href="https://github.com/amanst1/memory-game"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanst1&repo=memory-game&theme=tokyonight" /> </a> <a href="https://github.com/amanst1/quizzical"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amanst1&repo=quizzical&theme=tokyonight" /> </a> </div>
 
@@ -56,6 +62,30 @@
     📁 I name my folders better than I name my fantasy football team
 
 ---
+
+
+
+
+## 🖥️ Terminal Log
+
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&background=000000EE&center=true&vCenter=true&width=600&lines=booting+up...;connecting+to+amanst1%40github.com;loading+passion+projects...;injecting+retro+vibes...;Hello+World!+Welcome+Back+%F0%9F%91%BE)](https://git.io/typing-svg)
+
+
+```bash
+aman@terminal:~$ whoami
+👨 Aman ST – Developer · Vibesmith · Code Tinkerer
+
+aman@terminal:~$ uptime
+🕒 Running on curiosity and a dash of caffeine since 1995
+
+aman@terminal:~$ top -p highlights
+🎮 Quizzical | 🧠 Memory Game | 🌐 Vibe Coding
+
+aman@terminal:~$ fortune
+🌟 "Build first. Learn forever." – Terminal wisdom
+```
+
 
 ## 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amanst1&show_icons=true&theme=radical" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanst1&layout=compact&theme=tokyonight" width="340"/> </p>
